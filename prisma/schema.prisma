@@ -111,3 +111,9 @@ enum Set {
   SECOND_SET
   THIRD_SET
 }
+
+model LeagueFrequentQuestion {
+  id                  Int      @id @default(autoincrement())
+  question_title      String
+  question_response   String
+}
