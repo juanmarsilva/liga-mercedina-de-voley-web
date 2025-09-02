@@ -1,0 +1,1 @@
+export { users, news } from './seed';
