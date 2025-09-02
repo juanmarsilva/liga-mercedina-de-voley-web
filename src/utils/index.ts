@@ -1,1 +1,1 @@
-export { users, news } from './seed';
+export { users, news, matches, players, setResults, teams, league_levels } from './seed';
